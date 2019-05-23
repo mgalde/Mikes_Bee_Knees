@@ -1,5 +1,7 @@
 # Mikes Quick Honeypot
-A quick and simple honeypot that also allows you to be notified of a intrusion on your network 
+![BeeKnee](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48BeeKnee.jpg
+
+This is a simple honeypot that also allows you to be notified of a intrusion on your network 
 
 So check it out, you want a honeypot and you want it quick and you want it simple
 
