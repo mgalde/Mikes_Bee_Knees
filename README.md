@@ -1,4 +1,4 @@
-# Mikes Quick Honeypot
+# Mikes Bee Knees
 
 <img src="BeeKnee.jpg" alt="BeeKnee" width="200"/>
 
