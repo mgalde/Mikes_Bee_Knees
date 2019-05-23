@@ -1,5 +1,5 @@
 # Mikes Quick Honeypot
-![BeeKnee](/BeeKnee.jpg | width=100)
+![BeeKnee](/BeeKnee.jpg =250x)
 
 This is a simple honeypot that also allows you to be notified of a intrusion on your network 
 
