@@ -11,7 +11,7 @@ import time
 from socket import socket, AF_INET, SOCK_STREAM
 
 VERSION = '0.5 Mikes Fun Version'
-welcome = b"NARI Server login: "
+welcome = b"Secret Server login: "
 address = "localhost" #Change to your IP address 
 
 def send_email(src_address):
