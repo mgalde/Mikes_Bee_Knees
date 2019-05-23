@@ -90,18 +90,13 @@ Once a connection is made it sends a welcome message
 The connection then waits for a interaction from the connecting client 
 
 
-Now we gring it together into main
+## So this is looking at Telnet, RDP and SSH
 
-```python
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Mikes Quick Honeypot',
-                                 epilog='Version: ' + str(VERSION))
-    parser.add_argument('-a','--address',help='Use your IP address, the one you want to scan',action='store', required=True)   
-    args = parser.parse_args()
-    print ("Ready...")
-    telnet(args.address)
-    
-```
+You would run each C2 program which will then call it directly in a new IDLE window 
+
+Running Honeypot_RDP.py for example will run rdp.py and will look for the program to end. Once it does this will restart it. 
+
+I welcome any improvements!! 
 
 
 So any questions??
